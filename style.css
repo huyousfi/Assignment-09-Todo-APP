@@ -13,8 +13,8 @@ body {
 h1 {
   font-family: "Pacifico", cursive;
   font-size: 3rem;
-  color: #fff;
-  text-shadow: 0 3px 10px rgba(0, 0, 0, 0.3), 0 0 20px rgba(255, 255, 255, 0.4);
+  color:#5563DE;
+  text-shadow: 0 3px 10px white, 0 0 20px rgba(255, 255, 255, 0.4);
   margin-bottom: 25px;
   letter-spacing: 1.5px;
 }
